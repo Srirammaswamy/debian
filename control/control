@@ -1,0 +1,15 @@
+Package: fonts-rit-sundar
+Version: 2.0.0+20170909-1
+Architecture: all
+Maintainer: Sruthi Chandran <srud@disroot.org>
+Installed-Size: 200
+Section: fonts
+Priority: optional
+Multi-Arch: foreign
+Homepage: https://gitlab.com/rit-fonts/Sundar
+Description: ornamental font for Malayalam script
+ A traditional orthography ornamental font for Malayalam script created by
+ Rachana Institute of Typography (RIT)
+ .
+ This font is created, named and released in memory of Sundar (Sundar Ramanatha
+ Iyer; April 23, 1953 -- November 12, 2016).

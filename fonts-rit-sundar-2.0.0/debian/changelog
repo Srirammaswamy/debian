@@ -1,0 +1,6 @@
+fonts-rit-sundar (2.0.0-1) UNRELEASED; urgency=low
+
+  * Initial release. Closes: #nnnn
+    <nnnn is the bug number of your ITP>
+
+ -- cole <cole@localhost>  Sat, 30 Mar 2019 16:19:48 +0530
